@@ -1,0 +1,7 @@
+{
+	"usingComponents": {
+		"add-tips": "/components/add-tips/index"
+	},
+	"navigationBarBackgroundColor": "#07c160",
+	"navigationBarTextStyle": "white"
+}
