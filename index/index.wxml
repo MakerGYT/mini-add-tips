@@ -1,3 +1,0 @@
-<view>
-	<add-tips name="测试" hidden="{{hiddenAdd}}"/>
-</view>

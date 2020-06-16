@@ -17,7 +17,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.11.0",
 	"appid": "touristappid",
-	"projectname": "favorite",
+	"projectname": "mini-add-tips",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},

@@ -1,0 +1,5 @@
+<view>
+	<add-tips name="测试" custom/>
+	<!-- 以下是页面内容 -->
+	<view></view>
+</view>
